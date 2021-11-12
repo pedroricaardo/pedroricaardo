@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <a href="https://www.linkedin.com/in/pedro-ricardo-b91374115" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <!--- <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> --->
   <a href = "mailto:pedroricardo.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   
   ![Snake animation](https://github.com/pedroricaardo/pedroricaardo/blob/output/github-contribution-grid-snake.svg)
