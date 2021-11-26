@@ -9,12 +9,17 @@ pedroricaardo/pedroricaardo is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+##
+
 <div align="center">
   <a href="https://github.com/pedroricaardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroricaardo&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroricaardo&layout=compact&langs_count=7&theme=algolia"/>
-  
+  <img align="center" height="165" width="400" src="https://github-readme-stats.vercel.app/api?username=pedroricaardo&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
+  <img align="center" height="165" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroricaardo&layout=compact&langs_count=7&theme=algolia"/>
+  </a>    
 </div>
+
+## SKILLS
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,12 +30,23 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-##
+## CONTATOS
 
 <div>
   <a href="https://www.linkedin.com/in/pedro-ricardo-b91374115" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <!--- <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> --->
   <a href = "mailto:pedroricardo.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+</div>
+
+ ## VISITAS AO MEU PERFIL :detective:
+ <p style="display: inline_block"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/pedroricaardo/count.svg" />
+ </p>
+
+</div>
+
+<div align="center">
   
   ![Snake animation](https://github.com/pedroricaardo/pedroricaardo/blob/output/github-contribution-grid-snake.svg)
-</div>
+  
+ </div>
