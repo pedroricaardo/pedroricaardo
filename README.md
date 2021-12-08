@@ -1,7 +1,7 @@
 ## Olá, sou o Pedro Ricardo
 - 👋 Seja bem vindo(a)!
 - 💻 Atualmente trabalho como operador em uma equipe de monitoração
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
+- 📚 Formado em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando e aprimorando meus conhecimentos em Java e Tecnologias Web (HTML / CSS / Javascript / Typescript / React / Node)
 
 <!---
