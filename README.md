@@ -2,7 +2,7 @@
 - 👋 Seja bem vindo(a)!
 - 💻 Atualmente trabalho como operador em uma equipe de monitoração
 - 📚 Formado em Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando e aprimorando meus conhecimentos em Java e Tecnologias Web (HTML / CSS / Javascript / Typescript / React / Node)
+- 🌱 Estudando e aprimorando meus conhecimentos em Back-end com C#, Java e Front-end com HTML / CSS / Javascript / React / Node.
 
 <!---
 pedroricaardo/pedroricaardo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,14 +20,14 @@ You can click the Preview link to take a look at your changes.
 
 ## SKILLS
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Pedro-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<div style="display: inline_block">
+  <img align="center" alt="Pedro-Java" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Pedro-CSharp" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Pedro-HTML" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Pedro-CSS" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pedro-Js" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Pedro-Node" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Pedro-React" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 ## CONTATOS
