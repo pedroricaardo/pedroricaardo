@@ -1,6 +1,6 @@
 ## Olá, sou o Pedro Ricardo
 - 👋 Seja bem vindo(a)!
-- 💻 Atualmente trabalho como operador em uma equipe de monitoração
+- 💻 Atualmente trabalho como Desenvolvedor para Manutenção de Sistemas em uma equipe de Sustentação de aplicações C# (.NET)
 - 📚 Formado em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando e aprimorando meus conhecimentos em Back-end com C#, Java e Front-end com HTML / CSS / Javascript / React / Node.
 
