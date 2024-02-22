@@ -26,8 +26,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Pedro-HTML" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Js" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-Node" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Pedro-React" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Pedro-Node" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img align="center" alt="Pedro-React" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" class="devicon-nodejs-plain-wordmark colored">
 </div>
 
 ## CONTATOS
