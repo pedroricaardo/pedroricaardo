@@ -1,8 +1,8 @@
 ## Olá, sou o Pedro Ricardo
 - 👋 Seja bem vindo(a)!
-- 💻 Atualmente trabalho como Desenvolvedor para Manutenção de Sistemas em uma equipe de Sustentação de aplicações C# (.NET)
+- 💻 Atualmente trabalho como Desenvolvedor para Manutenção de Sistemas em uma equipe de Sustentação de aplicações C# (.Net)
 - 📚 Formado em Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando e aprimorando meus conhecimentos em Back-end com C#, Java e Front-end com HTML / CSS / Javascript / React / Node.
+- 🌱 Estudando e aprimorando meus conhecimentos em Back-end com C# (.Net) e Front-end com HTML / CSS / Javascript / React / Node.
 
 <!---
 pedroricaardo/pedroricaardo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
