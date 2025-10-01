@@ -38,13 +38,6 @@ You can click the Preview link to take a look at your changes.
   <a href = "mailto:pedroricardo.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div>
 
- ## VISITAS AO MEU PERFIL :detective:
- <p style="display: inline_block"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/pedroricaardo/count.svg" />
- </p>
-
-</div>
-
 <div align="center">
   
   ![Snake animation](https://github.com/pedroricaardo/pedroricaardo/blob/output/github-contribution-grid-snake.svg)
